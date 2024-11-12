@@ -37,8 +37,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Yeji&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/H-Yeji)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Yeji&layout=compact)
 </div>
 
-
-&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeji980603)](https://solved.ac/yeji980603/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeji980603)](https://solved.ac/yeji980603/)
 
 <hr>
 
