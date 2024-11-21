@@ -29,7 +29,6 @@
 
 <hr>
 
-<br>
 
 <h3>🔅My github status🔅</h3>
 <div>
@@ -41,7 +40,6 @@
 
 <hr>
 
-<br>
   
 <h3>📭 Study blog (👇🏻 click!)</h3>
 &nbsp;<a href="https://www.notion.so/Study-Records-b52c260077e64bff91e1b57571273b41"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
