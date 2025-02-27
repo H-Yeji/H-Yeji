@@ -33,9 +33,7 @@
 <h3>🔅My github status🔅</h3>
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Yeji&hide=contribs,prs&show_icons=true&theme=테마)
-
-&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Yeji&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Yeji&hide=contribs,prs&show_icons=true&theme=테마)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Yeji&layout=compact)
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeji980603)](https://solved.ac/yeji980603/)
